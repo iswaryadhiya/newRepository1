@@ -1,1 +1,1 @@
-city:Trichy
+city:Bangalore
